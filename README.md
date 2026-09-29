@@ -1,0 +1,1 @@
+# Smart Campus Intelligence Platform
